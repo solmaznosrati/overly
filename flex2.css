@@ -1,0 +1,29 @@
+*{
+    margin: auto;
+}
+.felxcontainer {
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+    display:flex;
+    justify-content:space-between;
+    background-color: rgb(36, 88, 88) ;
+    height: 300px;
+
+}
+.flexitem{
+    position: relative;
+    background-color: rgb(238, 69, 229);
+    top: 50px;
+    padding: 5px;
+    width: 200px;
+    height: 150px;
+    margin: 10px;
+    line-height: 150px;
+    color: rgb(53, 31, 5);
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+   
+    
+}
